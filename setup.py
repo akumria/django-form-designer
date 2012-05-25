@@ -22,7 +22,6 @@ setup(
         'form_designer.migrations',
         'form_designer.templatetags',
         'form_designer.contrib',
-        'form_designer.contrib.exporters',
         'form_designer.contrib.cms_plugins',
         'form_designer.contrib.cms_plugins.form_designer_form',
     ],
